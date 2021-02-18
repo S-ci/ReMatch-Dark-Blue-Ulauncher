@@ -2,9 +2,7 @@
 
 Dark theme for Ulauncher inspired by Manjaro Xfce Matcha Dark Blue theme.
 
-<img src="preview"/>
-
-<img src="preview_1"/>
+<img src="preview.png"/>
 
 ## Installation
 
