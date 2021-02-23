@@ -1,15 +1,11 @@
-# ReMatch Dark Azul
+# ReMatch Dark Blue
 
-Tema oscuro para Ulauncher inspirado en el tema Matcha Dark Blue de Manjaro Xfce.
-
--Dark theme for Ulauncher inspired by Manjaro Xfce Matcha Dark Blue theme.
+Tema oscuro para Ulauncher inspirado en el tema Matcha Dark Azul de Manjaro Xfce.
 
 <img src="Preview.png"/>
 
 <img src="Preview_1.png"/>
 
-## Instalación / Installation
+## Instalación
 
-Copie o clone los archivos del repositorio en "~/.config/ulauncher/user-themes/" y disfruta del tema.
-
--Copy or clone the repository files to
+Copie o clone los archivos del repositorio en "~/.config/ulauncher/user-themes/"
